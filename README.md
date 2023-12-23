@@ -15,12 +15,14 @@ After that in task 1b we were asked to write led_detection.py file in which an i
 
 In task 2a we were asked to do waypoint navigation of the drone in which we were given 9 points to hover and even if for an instance the drone comes in the range of 0.2 decimeters for all the three coordinates then the drone will move to another point.
 
-In task 2b we were given an alien in the arena and first we needed to first scan the whole arena with the help of camera in the drone and after that we needed to land the drone at the alien. The alien was represented with the help of leds.
+In task 2b we were given an alien in the arena and first we needed to first scan the whole arena with the help of camera in the drone and after that we needed to land the drone at the alien. The alien was represented with the help of leds. We were asked to write life_form_detector.py in this task.
 Alien A - 2 leds
 Alien B - 3 leds
 Alien C - 4 leds
 In task 2B only alien B was given and we have to detect it and needed to land the drone on the alien.
 
-In task 2c all the three alien were given and we have to land the on all the three aliens.
+https://youtu.be/2i3gmVsNldM?si=_XkqCWb4PDXEE_by - Video link for task 2b
 
+In task 2c all the three alien were given and we have to land the on all the three aliens.In this task we were asked to write biota_detector.py file.
 
+https://youtu.be/hz5tVdzSx8I?si=sr6ILMZnG-NEyI4G - Video link for task 2c
